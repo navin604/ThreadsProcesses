@@ -1,4 +1,4 @@
-# ThreadsVsProcesses
+# Threads Vs Processes
 
 The objective here was to obtain a measure of efficiency and performance of threads versus processes.
 The program performs a system intensive operation to see how the workers handle the increased load.
